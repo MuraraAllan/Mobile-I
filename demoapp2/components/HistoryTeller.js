@@ -24,7 +24,7 @@ export default class Header extends Component {
     textBox: {
       flex: .35,
       borderWidth: 1,
-      minWidth: '99%',
+      minWidth: '100%',
     },
     textStyle: {
       alignSelf: 'center'
